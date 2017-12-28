@@ -1,0 +1,42 @@
+.moren{
+	background: #E7E7E7;
+}
+.danger{
+	padding: 80px 0px 30px;
+}
+.well{
+	position: relative;
+}
+.well .a img{
+	float: left;
+}
+.well .zi{
+	float: right;
+}
+.well .zi1{
+	position: absolute;
+	left: 130px;
+	top: 45px;
+}
+.well .img{
+	float: right;
+}
+.cl{
+	clear: both;
+	overflow: hidden;
+	height: 0;
+}
+.anniu{
+	margin:15px 0px;
+}
+#footer p{
+	text-align: center;
+	height: 30px;
+	line-height:30px ;
+	font-weight: bold;
+}
+.form{
+	border: 1px solid #DDDDDD;
+	border-top-style: none;
+	padding: 10px;
+}
